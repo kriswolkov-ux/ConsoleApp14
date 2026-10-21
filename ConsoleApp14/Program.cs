@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-
+// ветка master это 1 пара, relations 2 пара
 // проект сделан на NET 10.00
 var builder = Host.CreateApplicationBuilder(args);
 
